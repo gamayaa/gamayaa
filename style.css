@@ -1675,13 +1675,12 @@ Grey #ECF0F1
                                                         @media handheld,
                                                         only screen and (max-width: 767px) {
                                                             #top-header {
-                                                                position: absolute;
-                                                                padding: 8px 0;
+                                                                position: fixed;
+                                                                padding: 40px 0;
                                                             }
                                                             .logo-wrap {
-                                                                float: left;
-                                                                width: 100%;
-                                                                margin-bottom: .5em;
+                                                                width: 214%;
+                                                                margin: 14px;
                                                             }
                                                             #top-header .col-1-1 {
                                                                 margin: 0;
